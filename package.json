@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha public/minimax_specs.js",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "author": "James Tillman <James.Tillman.7@gmail.com> (https://github.com/jctillman)",
   "license": "ISC",
